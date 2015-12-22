@@ -6,6 +6,11 @@ sudo apt-get update -y
 sudo apt-get install -y unzip
 sudo apt-get install -y build-essential
 
+# For generating the github static pages
+sudo apt-get install -y python-pip
+sudo pip install buster
+sudo apt-get install python-lxml
+
 # Downloading and installed the node software for ghost framework
 curl -sL https://deb.nodesource.com/setup | sudo bash -
 sudo apt-get install -y nodejs
