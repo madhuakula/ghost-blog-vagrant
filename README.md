@@ -16,3 +16,8 @@
 - You can also generate static pages using buster [https://github.com/axitkhurana/buster](https://github.com/axitkhurana/buster)
 
 - For more details about ghost [https://ghost.org](https://ghost.org)
+
+
+### Contact :
+
+Madhu Akula - [http://www.madhuakula.com](http://www.madhuakula.com)
