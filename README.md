@@ -17,6 +17,8 @@
 
 - For more details about ghost [https://ghost.org](https://ghost.org)
 
+- It's simple way to use for both ghost and github pages.
+
 
 ### Contact :
 
